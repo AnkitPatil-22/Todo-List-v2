@@ -6,7 +6,11 @@ Todo-list website that lets you create multiple lists and stores data using Node
 
 
 DEMO:
-https://user-images.githubusercontent.com/71706634/150766619-1ef5a16b-9050-4550-a192-daf501770b3a.mp4
+
+
+
+https://user-images.githubusercontent.com/71706634/150766751-167c7bfb-9287-4f81-806f-b2f9717718c7.mp4
+
 
 
 
